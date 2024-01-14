@@ -4,4 +4,4 @@ Semestr: zimowy
 Forma studiów: Stacjonarne
 Kierunek: Informatyka stosowana
 Grupa: 1
-Student: Kacper Fordon
+Student: Kacper F
